@@ -2,7 +2,7 @@
 //  TerminalView.swift
 //  RISK
 //
-//  Created by Barney Jason Evans on 12/30/25.
+//  Created by NER0US on 12/30/25.
 //
 
 import SwiftUI
