@@ -1,0 +1,18 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+
+# Xcode user data
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+xcuserdata/
+IDEFindNavigatorScopes.plist
+
+# Swift Package Manager
+.build/
+
+# macOS
+*.swp
+*.log
